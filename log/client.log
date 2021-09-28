@@ -1,0 +1,284 @@
+[ 2021-01-09 10:00:41,556 ] Asset loading complete
+[ 2021-01-09 10:01:42,165 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 10:02:11,389 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 10:02:14,167 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Lepiigortv" )
+[ 2021-01-09 10:02:14,172 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 10:02:14,183 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 10:02:14,625 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-01-09 10:02:14,630 ] Disconnected from gameserver
+[ 2021-01-09 10:02:15,226 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 10:02:22,281 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-01-09 10:03:12,641 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-01-09 10:03:15,724 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Community Manager" )
+[ 2021-01-09 10:03:15,727 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 10:03:15,737 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 10:03:15,975 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-01-09 10:03:15,982 ] Disconnected from gameserver
+[ 2021-01-09 10:03:16,710 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-01-09 10:03:17,293 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-01-09 10:11:45,254 ] Asset loading complete
+[ 2021-01-09 10:11:50,248 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 10:11:52,372 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Community Manager" )
+[ 2021-01-09 10:11:52,377 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 10:11:52,387 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 10:11:52,683 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-01-09 10:11:52,688 ] Disconnected from gameserver
+[ 2021-01-09 10:11:53,433 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 10:30:35,801 ] Asset loading complete
+[ 2021-01-09 10:30:46,097 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 10:30:46,954 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Community Manager" )
+[ 2021-01-09 10:30:46,959 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 10:30:46,969 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 10:30:47,047 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-01-09 10:30:47,053 ] Disconnected from gameserver
+[ 2021-01-09 10:30:47,998 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 10:31:53,669 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 11:54:05,450 ] Asset loading complete
+[ 2021-01-09 11:54:09,014 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 11:54:09,754 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Community Manager" )
+[ 2021-01-09 11:54:09,759 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 11:54:09,769 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 11:54:09,865 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-01-09 11:54:09,871 ] Disconnected from gameserver
+[ 2021-01-09 11:54:10,799 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 11:59:27,559 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 11:59:32,115 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-01-09 11:59:32,850 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Community Manager" )
+[ 2021-01-09 11:59:32,852 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 11:59:32,863 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 11:59:32,980 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-01-09 11:59:32,986 ] Disconnected from gameserver
+[ 2021-01-09 11:59:33,830 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-01-09 11:59:36,032 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-01-09 12:00:46,592 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-01-09 12:00:47,311 ] Request connection to gameserver  "tcp://192.168.1.23:7172"  (unprotected:  "tcp://192.168.1.23:7172" )  requested (Charakter "Community Manager" )
+[ 2021-01-09 12:00:47,313 ] Request connection to gameserver  "tcp://192.168.1.23:7172" "OTServBR-Global"
+[ 2021-01-09 12:00:47,323 ] Connected to gameserver  "tcp://192.168.1.23:7172" "OTServBR-Global"
+[ 2021-01-09 12:00:47,474 ] Connection to gameserver  "tcp://192.168.1.23:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-01-09 12:00:47,480 ] Disconnected from gameserver
+[ 2021-01-09 12:00:48,292 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-01-09 12:03:03,470 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-01-09 12:03:30,161 ] Asset loading complete
+[ 2021-01-09 12:10:51,048 ] Asset loading complete
+[ 2021-01-09 12:10:53,838 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 12:10:54,831 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Community Manager" )
+[ 2021-01-09 12:10:54,835 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 12:10:54,846 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 12:10:54,973 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-01-09 12:10:54,979 ] Disconnected from gameserver
+[ 2021-01-09 12:10:55,891 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 12:11:25,698 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 12:11:26,436 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Mino" )
+[ 2021-01-09 12:11:26,438 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 12:11:26,448 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 12:11:26,865 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-01-09 12:11:26,871 ] Disconnected from gameserver
+[ 2021-01-09 12:11:27,417 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-01-09 12:16:46,578 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-01-09 12:16:47,266 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Mino" )
+[ 2021-01-09 12:16:47,267 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 12:16:47,278 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 12:16:47,464 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-01-09 12:16:47,469 ] Disconnected from gameserver
+[ 2021-01-09 12:16:48,247 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-01-09 12:16:48,746 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-01-09 12:17:01,089 ] Asset loading complete
+[ 2021-01-09 12:18:04,810 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 12:18:05,734 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Community Manager" )
+[ 2021-01-09 12:18:05,738 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 12:18:05,750 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 12:18:05,827 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-01-09 12:18:05,833 ] Disconnected from gameserver
+[ 2021-01-09 12:18:06,794 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 15:03:18,908 ] Asset loading complete
+[ 2021-01-09 15:03:24,052 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 15:03:28,201 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-01-09 15:03:28,205 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 15:03:28,215 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2021-01-09 15:03:29,803 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 15:03:47,822 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error decoding: http://127.0.0.1/?subtopic=error: Unsupported image format
+[ 2021-01-09 15:03:47,822 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error decoding: http://127.0.0.1/?subtopic=error: Unsupported image format
+[ 2021-01-09 15:31:09,236 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-01-09 15:31:09,285 ] Disconnected from gameserver
+[ 2021-01-09 15:31:09,703 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 15:32:56,389 ] Asset loading complete
+[ 2021-01-09 15:33:08,333 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 15:33:08,967 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Druid Sample" )
+[ 2021-01-09 15:33:08,974 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "LepiigorTV"
+[ 2021-01-09 15:33:08,985 ] Connected to gameserver  "tcp://127.0.0.1:7172" "LepiigorTV"
+[ 2021-01-09 15:33:10,018 ] News query failed: "Unrecognized event news."
+[ 2021-01-09 15:33:13,922 ] Connection to gameserver  "tcp://127.0.0.1:7172" "LepiigorTV"  was disconnected ( "The remote host closed the connection" )
+[ 2021-01-09 15:33:13,966 ] Disconnected from gameserver
+[ 2021-01-09 15:33:14,305 ] News query failed: "Unrecognized event news."
+[ 2021-04-26 16:00:03,615 ] Asset loading complete
+[ 2021-04-26 16:02:33,535 ] Asset loading complete
+[ 2021-04-26 16:02:39,165 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-04-26 16:02:39,912 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "[CS] Lymph" )
+[ 2021-04-26 16:02:39,918 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-04-26 16:02:39,929 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-04-26 16:02:40,955 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-04-26 16:07:18,157 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-04-26 16:07:18,199 ] Disconnected from gameserver
+[ 2021-04-26 16:07:18,262 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-04-26 22:46:29,134 ] Asset loading complete
+[ 2021-04-26 22:46:32,270 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-04-26 22:46:33,462 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-04-26 22:46:33,467 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-04-26 22:46:33,477 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-04-26 22:46:33,485 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-04-26 22:46:33,488 ] Disconnected from gameserver
+[ 2021-04-26 22:46:34,505 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-04-26 22:46:39,659 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-04-26 23:03:31,944 ] Asset loading complete
+[ 2021-04-26 23:03:38,049 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-04-26 23:03:38,529 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-04-26 23:03:38,535 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-04-26 23:03:39,584 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-04-26 23:03:42,621 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-04-26 23:03:46,926 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error decoding: http://127.0.0.1/Store//home/banner_mistfall.png: Unsupported image format
+[ 2021-04-26 23:03:46,926 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error decoding: http://127.0.0.1/Store//home/banner_dolwatha.png: Unsupported image format
+[ 2021-04-26 23:03:46,928 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error decoding: http://127.0.0.1/Store//home/banner_falanaar.png: Unsupported image format
+[ 2021-04-26 23:03:46,928 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error decoding: http://127.0.0.1/Store//home/banner_mordragor.png: Unsupported image format
+[ 2021-04-26 23:03:46,928 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error decoding: http://127.0.0.1/Store//home/liombera_custom.png: Unsupported image format
+[ 2021-04-26 23:03:46,928 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error decoding: http://127.0.0.1/Store//home/banner_freewind.png: Unsupported image format
+[ 2021-04-26 23:05:29,508 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-04-26 23:05:29,549 ] Disconnected from gameserver
+[ 2021-04-26 23:05:29,659 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-10 09:10:48,895 ] Asset loading complete
+[ 2021-05-10 09:10:59,001 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-16 19:54:41,850 ] Asset loading complete
+[ 2021-05-16 19:54:47,932 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-16 19:54:48,327 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Tester" )
+[ 2021-05-16 19:54:48,341 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-16 19:54:48,352 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-16 19:54:50,551 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-16 19:55:45,742 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-05-16 19:55:45,783 ] Disconnected from gameserver
+[ 2021-05-16 19:55:45,859 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-19 11:34:49,040 ] Asset loading complete
+[ 2021-05-19 11:34:53,854 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-19 11:34:54,971 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-05-19 11:34:54,972 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-19 11:34:56,021 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-19 11:34:59,058 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "Connection refused" )
+[ 2021-05-19 11:35:00,058 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-19 11:35:04,162 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "Connection refused" )
+[ 2021-05-19 11:35:04,168 ] Disconnected from gameserver
+[ 2021-05-19 11:35:05,345 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-05-19 11:35:05,346 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-19 11:35:06,413 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-19 11:35:09,466 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "Connection refused" )
+[ 2021-05-19 11:35:10,467 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-19 11:35:14,570 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "Connection refused" )
+[ 2021-05-19 11:35:14,574 ] Disconnected from gameserver
+[ 2021-05-19 11:35:15,737 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-05-19 11:35:15,744 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-19 11:35:15,754 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-19 11:35:17,954 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-19 11:46:50,448 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/Store//home/banner_mordragor.png - server replied: Internal Server Error
+[ 2021-05-19 11:46:50,448 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/Store//home/banner_freewind.png - server replied: Internal Server Error
+[ 2021-05-19 11:46:50,448 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/Store//home/banner_falanaar.png - server replied: Internal Server Error
+[ 2021-05-19 11:46:50,448 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/Store//home/banner_mistfall.png - server replied: Internal Server Error
+[ 2021-05-19 11:46:50,448 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/Store//home/liombera_custom.png - server replied: Internal Server Error
+[ 2021-05-19 11:46:50,448 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/Store//home/banner_dolwatha.png - server replied: Internal Server Error
+[ 2021-05-19 11:48:56,416 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-05-19 11:48:56,466 ] Disconnected from gameserver
+[ 2021-05-19 11:48:56,510 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-20 23:21:40,444 ] Asset loading complete
+[ 2021-05-20 23:34:27,375 ] Asset loading complete
+[ 2021-05-20 23:36:06,538 ] Asset loading complete
+[ 2021-05-20 23:40:09,340 ] Asset loading complete
+[ 2021-05-20 23:58:56,249 ] Asset loading complete
+[ 2021-05-20 23:58:59,232 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-20 23:58:59,860 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-05-20 23:58:59,865 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-20 23:58:59,875 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-20 23:58:59,917 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-05-20 23:58:59,924 ] Disconnected from gameserver
+[ 2021-05-20 23:59:00,917 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-20 23:59:02,637 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-20 23:59:04,441 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-05-20 23:59:04,444 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-20 23:59:04,454 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-20 23:59:04,520 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-05-20 23:59:04,526 ] Disconnected from gameserver
+[ 2021-05-20 23:59:05,420 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-20 23:59:05,654 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-20 23:59:39,818 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-20 23:59:41,288 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-05-20 23:59:41,289 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-20 23:59:41,301 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-20 23:59:41,302 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-05-20 23:59:41,307 ] Disconnected from gameserver
+[ 2021-05-21 00:00:00,019 ] Asset loading complete
+[ 2021-05-21 00:00:02,151 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:00:02,527 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-05-21 00:00:02,531 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:00:02,542 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:00:02,602 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-05-21 00:00:02,605 ] Disconnected from gameserver
+[ 2021-05-21 00:00:03,586 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:00:04,153 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:00:18,620 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
+[ 2021-05-21 00:00:18,622 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:00:18,633 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:00:18,699 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-05-21 00:00:18,702 ] Disconnected from gameserver
+[ 2021-05-21 00:00:19,265 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:00:19,615 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:00:20,137 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-05-21 00:00:20,139 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:00:20,150 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:00:20,199 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-05-21 00:00:20,202 ] Disconnected from gameserver
+[ 2021-05-21 00:00:21,118 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:00:21,133 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:00:53,746 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:00:54,398 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-05-21 00:00:54,400 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:00:54,410 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:00:55,378 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:01:00,768 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2021-05-21 00:01:00,768 ] libpng warning: iCCP: cHRM chunk does not match sRGB
+[ 2021-05-21 00:03:04,156 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2021-05-21 00:03:04,156 ] libpng warning: iCCP: cHRM chunk does not match sRGB
+[ 2021-05-21 00:06:21,884 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-05-21 00:06:21,923 ] Disconnected from gameserver
+[ 2021-05-21 00:06:21,951 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:06:36,002 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-05-21 00:06:36,004 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:06:36,014 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:06:36,977 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:06:49,246 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2021-05-21 00:06:49,246 ] libpng warning: iCCP: cHRM chunk does not match sRGB
+[ 2021-05-21 00:27:03,733 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-05-21 00:27:03,784 ] Disconnected from gameserver
+[ 2021-05-21 00:27:03,810 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:27:21,446 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-05-21 00:27:21,449 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:27:21,459 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:27:22,421 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:28:34,709 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-05-21 00:28:34,748 ] Disconnected from gameserver
+[ 2021-05-21 00:28:34,779 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:30:53,067 ] Asset loading complete
+[ 2021-05-21 00:30:55,968 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:30:56,825 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-05-21 00:30:56,831 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:30:56,842 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:30:57,885 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:32:08,053 ] Asset loading complete
+[ 2021-05-21 00:32:11,109 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:32:11,837 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-05-21 00:32:11,842 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:32:11,852 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:32:12,877 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:37:37,917 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Global"  was disconnected ( "The remote host closed the connection" )
+[ 2021-05-21 00:37:37,955 ] Disconnected from gameserver
+[ 2021-05-21 00:37:38,025 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:37:44,521 ] Asset loading complete
+[ 2021-05-21 00:37:47,087 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2021-05-21 00:37:48,080 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2021-05-21 00:37:48,086 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:37:48,096 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Global"
+[ 2021-05-21 00:37:49,139 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
